@@ -1,1 +1,0 @@
-web: java -Dserver.port=$PORT -jar  target/springboot-api-microservice-0.0.1-SNAPSHOT.jar
