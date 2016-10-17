@@ -1,4 +1,4 @@
-# Sample Application to use with Refinery Application
+# Sample Application to use with Refinery
 
 ## Prereqs
 - `brew` - Mac Install - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
